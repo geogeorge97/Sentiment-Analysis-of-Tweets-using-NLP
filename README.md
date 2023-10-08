@@ -1,4 +1,4 @@
-# Sentiment-Analysis-of-Tweets-using-NLP
+# Sentiment Analysis of Tweets using Python and NLP
 
 Designed and implemented a sentiment classifier to classify tweets as positive, negative or neutral utilizing
 Linear Support Vector Classifier (SVC); Obtained accuracy of 63% and f1-score of 60%. Tweets initially
